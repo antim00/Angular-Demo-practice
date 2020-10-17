@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Antim Bhai Plt",
+      "mobileno": "6374550977",
+      "email": "antimv50@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "Anupam",
+      "mobileno": "9453499324",
+      "email": "Rocker@reddifmail.com",
+      "password": "324934",
+      "id": 2
+    },
+    {
+      "name": "Azad",
+      "mobileno": "46235628",
+      "email": "azad@gmail.com",
+      "password": "45134",
+      "id": 3
+    },
+    {
+      "name": "Antim",
+      "mobileno": "6374550977",
+      "email": "antimv50@gmail",
+      "password": "12345",
+      "id": 4
+    }
+  ]
+}
